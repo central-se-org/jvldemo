@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContrastFilterPersistentStateComponent">
+    <option name="selectedApplicationName" value="JavaVulnerableLab" />
+    <option name="selectedApplicationId" value="ac588d51-2a5e-4b75-b97c-94f7ca9d91a1" />
+    <option name="severities">
+      <list />
+    </option>
+    <option name="statuses">
+      <list />
+    </option>
+    <option name="page" value="1" />
+    <option name="selectedOrganizationName" value="Internal - Scott McBain" />
+  </component>
+</project>
